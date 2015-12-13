@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Head xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Leather helmet</Name>
+  <Information>Smells like cheese...</Information>
+  <image>
+    <Position>
+      <X>0</X>
+      <Y>0</Y>
+    </Position>
+    <Scale>
+      <X>1</X>
+      <Y>1</Y>
+    </Scale>
+    <Path>Armour/leatherHelmet</Path>
+    <SourceRect>
+      <X>0</X>
+      <Y>0</Y>
+      <Width>0</Width>
+      <Height>0</Height>
+      <Location>
+        <X>0</X>
+        <Y>0</Y>
+      </Location>
+    </SourceRect>
+    <Alpha>1</Alpha>
+    <IsActive>false</IsActive>
+    <Rotation>0</Rotation>
+  </image>
+  <Price>30</Price>
+  <ArmourValue>3</ArmourValue>
+</Head>

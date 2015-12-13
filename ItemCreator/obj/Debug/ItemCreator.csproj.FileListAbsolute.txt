@@ -1,0 +1,32 @@
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\ItemCreator\obj\Debug\ItemCreator.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\ItemCreator\obj\Debug\ItemCreator.Form1.resources
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\ItemCreator\obj\Debug\ItemCreator.Properties.Resources.resources
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\ItemCreator\obj\Debug\ItemCreator.csproj.GenerateResource.Cache
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\ItemCreator\bin\Debug\ItemCreator.exe.config
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\ItemCreator\bin\Debug\Content\Pixel.xnb
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\ItemCreator\bin\Debug\Load\ScreenManager.xml
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\ItemCreator\bin\Debug\Load\Weapons\Iron Dagger.xml
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\ItemCreator\bin\Debug\Load\Weapons\Iron Longsword.xml
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\ItemCreator\bin\Debug\Load\Weapons\Legendary Molten Blade.xml
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\ItemCreator\bin\Debug\Load\Weapons\Rusty Dagger.xml
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\ItemCreator\bin\Debug\ItemCreator.exe
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\ItemCreator\bin\Debug\ItemCreator.pdb
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\ItemCreator\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\ItemCreator\bin\Debug\SoloRPG.exe
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\ItemCreator\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\ItemCreator\bin\Debug\System.Data.dll
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\ItemCreator\bin\Debug\System.Deployment.dll
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\ItemCreator\bin\Debug\System.dll
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\ItemCreator\bin\Debug\System.Drawing.dll
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\ItemCreator\bin\Debug\System.Windows.Forms.dll
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\ItemCreator\bin\Debug\System.Xml.dll
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\ItemCreator\bin\Debug\System.Xml.Linq.dll
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\ItemCreator\bin\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\ItemCreator\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\ItemCreator\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\ItemCreator\bin\Debug\SoloRPG.pdb
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\ItemCreator\bin\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\ItemCreator\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\ItemCreator\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\ItemCreator\obj\Debug\ItemCreator.exe
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\ItemCreator\obj\Debug\ItemCreator.pdb

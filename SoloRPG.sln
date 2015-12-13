@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoloRPG", "SoloRPG\SoloRPG\SoloRPG.csproj", "{AED7204E-745F-4F96-92CE-94DE9C392214}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SoloRPGContent", "SoloRPG\SoloRPGContent\SoloRPGContent.contentproj", "{37BBA4F9-13A7-4631-A384-D3826D529317}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItemCreator", "ItemCreator\ItemCreator.csproj", "{8A646888-D06C-4F27-B9A4-0A99275C8B9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AED7204E-745F-4F96-92CE-94DE9C392214}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{AED7204E-745F-4F96-92CE-94DE9C392214}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{AED7204E-745F-4F96-92CE-94DE9C392214}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{AED7204E-745F-4F96-92CE-94DE9C392214}.Debug|x86.ActiveCfg = Debug|x86
+		{AED7204E-745F-4F96-92CE-94DE9C392214}.Debug|x86.Build.0 = Debug|x86
+		{AED7204E-745F-4F96-92CE-94DE9C392214}.Release|Any CPU.ActiveCfg = Release|x86
+		{AED7204E-745F-4F96-92CE-94DE9C392214}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{AED7204E-745F-4F96-92CE-94DE9C392214}.Release|Mixed Platforms.Build.0 = Release|x86
+		{AED7204E-745F-4F96-92CE-94DE9C392214}.Release|x86.ActiveCfg = Release|x86
+		{AED7204E-745F-4F96-92CE-94DE9C392214}.Release|x86.Build.0 = Release|x86
+		{37BBA4F9-13A7-4631-A384-D3826D529317}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{37BBA4F9-13A7-4631-A384-D3826D529317}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{37BBA4F9-13A7-4631-A384-D3826D529317}.Debug|x86.ActiveCfg = Debug|x86
+		{37BBA4F9-13A7-4631-A384-D3826D529317}.Release|Any CPU.ActiveCfg = Release|x86
+		{37BBA4F9-13A7-4631-A384-D3826D529317}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{37BBA4F9-13A7-4631-A384-D3826D529317}.Release|x86.ActiveCfg = Release|x86
+		{8A646888-D06C-4F27-B9A4-0A99275C8B9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A646888-D06C-4F27-B9A4-0A99275C8B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A646888-D06C-4F27-B9A4-0A99275C8B9E}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{8A646888-D06C-4F27-B9A4-0A99275C8B9E}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{8A646888-D06C-4F27-B9A4-0A99275C8B9E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8A646888-D06C-4F27-B9A4-0A99275C8B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A646888-D06C-4F27-B9A4-0A99275C8B9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A646888-D06C-4F27-B9A4-0A99275C8B9E}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{8A646888-D06C-4F27-B9A4-0A99275C8B9E}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{8A646888-D06C-4F27-B9A4-0A99275C8B9E}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

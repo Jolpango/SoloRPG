@@ -1,0 +1,9 @@
+Content\Pixel.xnb
+Content\ironBoots.xnb
+Content\ironDagger.xnb
+Content\ironHelmet.xnb
+Content\ironLongsword.xnb
+Content\ironPlateBody.xnb
+Content\rustyDagger.xnb
+Content\woodenShield.xnb
+Content\worldTiles.xnb

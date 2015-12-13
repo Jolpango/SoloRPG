@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Offhand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Wooden Shield</Name>
+  <Information>An old plank...</Information>
+  <image>
+    <Position>
+      <X>0</X>
+      <Y>0</Y>
+    </Position>
+    <Scale>
+      <X>1</X>
+      <Y>1</Y>
+    </Scale>
+    <Path>Armours/woodenShield</Path>
+    <SourceRect>
+      <X>0</X>
+      <Y>0</Y>
+      <Width>0</Width>
+      <Height>0</Height>
+      <Location>
+        <X>0</X>
+        <Y>0</Y>
+      </Location>
+    </SourceRect>
+    <Alpha>1</Alpha>
+    <IsActive>false</IsActive>
+    <Rotation>0</Rotation>
+  </image>
+  <Price>100</Price>
+  <ArmourValue>7</ArmourValue>
+</Offhand>

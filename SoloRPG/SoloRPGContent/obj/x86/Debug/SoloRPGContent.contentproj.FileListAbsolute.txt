@@ -1,0 +1,1 @@
+C:\Users\Joel\Desktop\programmering\C#\Visual Studio 2013\Projects\SoloRPG\SoloRPG\SoloRPGContent\obj\x86\Debug\SoloRPGContent.contentprojResolveAssemblyReference.cache
